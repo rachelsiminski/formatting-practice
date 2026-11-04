@@ -5,6 +5,8 @@ public class App {
 
         System.out.printf("%20s", "TRANSACTIONS");
 
-        System.out.printf("%20s %-20s%n", "2026-11-04", "Coffee");
+        System.out.println();
+
+        System.out.printf("%18s %-20s%n", "2026-11-04", "Coffee");
     }
 }
